@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <html lang="en" >
+        <head>
+        <meta charset="UTF-8">
+        <title>Horizon</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <center>
+            <marquee><b>waiting for u :d</b></marquee>
+            <h2>Horizon User Infomation</h2>
+            <h3>UserName: Guest | Type: Premium Access</h3>
+            <canvas id="myCanvas"></canvas>
+            <script  src="./script.js"></script>
+            <footer class="footer">
+                <div id="music">
+                    <audio autoplay="false" controls="true" loop="true" src="https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download" __idm_id__="5070849">Your browser does not support the audio element.</audio>
+                    <br><b>Session ID:</b> ce4d1eb3-4ed8-4de1-85f8-cfddc549d5ed<br>
+                    <br>Thanks For Using <b>Fca-Horizon-Remastered</b> - From <b>Kanzu</b> <3<br>
+                </div>
+            </footer>
+            </div>
+        </center>
+    </html>
+    </body>

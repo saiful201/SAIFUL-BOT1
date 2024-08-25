@@ -1,0 +1,89 @@
+{
+    "language": "en",
+    "keyActive": "bok",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BAD-BOT",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100011152309303",
+        "61564400903050",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCXtsOpIMInU5TOWkz0b2xjqwbx0aLUKJw",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminOnly": {
+        "enable": true,
+        "ignoreCommand": []
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "help2": {
+        "autoUnsend": "",
+        "delayUnsend": 300
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyBY0vH90jLBKwqB0tDBc9FUQLh0mbNxDvo",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyDC-PYP4E1bD2_RauVJBnTSkvUNxkxSQcc"
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "weather": {
+        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    }
+}
